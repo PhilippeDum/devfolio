@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Quicksand_Bold;
+    src: url('../resources/Quicksand_Bold.otf');
+}
+
+body {
+    font-family: Quicksand_Bold, sans-serif;
+    background-color: #2D2D2B;
+    color: #FFFFFF;
+
+    min-width: 280px;
+}
